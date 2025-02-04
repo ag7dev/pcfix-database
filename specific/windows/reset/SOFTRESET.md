@@ -48,5 +48,5 @@ Even though this method can preserve your files, always back up critical data to
 ---
 
 ## Wichtige Hinweise:
-- This method only works when Windows starts.If not, use the [USB-Reset]((https://github.com/ag7dev/pcfix-database/blob/main/specific/windows/reset/FULLRESET.md)).
+- This method only works when Windows starts.If not, use the [USB-Reset](https://github.com/ag7dev/pcfix-database/blob/main/specific/windows/reset/FULLRESET.md).
 - In the event of problems during the reset: Wile holding SHIFT click restart pressed to get into the safe mode and try the reset again.
